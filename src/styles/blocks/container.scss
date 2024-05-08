@@ -1,0 +1,14 @@
+.container {
+  margin: 0 auto;
+  padding-inline: 20px;
+
+  @include onTablet {
+    max-width: 744px;
+    padding-inline: 72px;
+  }
+
+  @include onDesktop {
+    max-width: 1260px;
+    padding-inline: 120px;
+  }
+}

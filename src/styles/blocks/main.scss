@@ -1,0 +1,13 @@
+.main {
+  &__content {
+    padding-block: 60px 80px;
+
+    @include onTablet {
+      padding-block: 120px;
+    }
+
+    @include onDesktop {
+      padding-block: 120px 180px;
+    }
+  }
+}
