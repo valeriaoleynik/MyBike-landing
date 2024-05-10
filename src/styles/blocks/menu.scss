@@ -9,6 +9,10 @@
   text-transform: uppercase;
   color: $mainColor;
 
+  @media (orientation: landscape) {
+    overflow-y: scroll;
+  }
+
   &__top {
     margin-bottom: 24px;
 

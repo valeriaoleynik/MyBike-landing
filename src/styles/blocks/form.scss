@@ -46,11 +46,15 @@
   &:focus {
     border: 1px solid #292929;
     background-color: #f8f8fa;
+
+    outline: none;
   }
 
   &--textarea {
     border-radius: 16px;
     margin-bottom: 32px;
     height: 120px;
+
+    resize: none;
   }
 }
