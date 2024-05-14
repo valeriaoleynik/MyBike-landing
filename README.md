@@ -1,4 +1,4 @@
-# MyBiKE Landing Pag
+# MyBiKE Landing Page
 
 - [DEMO LINK](https://valeriaoleynik.github.io/MyBike-landing/)
 - [Figma design](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?type=design&node-id=41317-204&mode=design&t=qM7xXXnXMxaZdMCS-0)
